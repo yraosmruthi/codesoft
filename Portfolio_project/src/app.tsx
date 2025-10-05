@@ -35,7 +35,7 @@ function App() {
             <h3 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-teal-600 bg-clip-text text-transparent mb-8 text-center">About Me</h3>
             <div className="flex flex-col md:flex-row items-center gap-8">
               <div className="w-48 h-48 bg-gradient-to-br from-orange-400 via-pink-400 to-blue-400 rounded-full flex items-center justify-center flex-shrink-0 shadow-xl">
-                <span className="text-6xl font-bold text-white">A</span>
+                <span className="text-6xl font-bold text-white">S</span>
               </div>
               <div className="flex-1">
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
